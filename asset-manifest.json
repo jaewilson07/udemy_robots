@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ud_RobotApp/static/css/main.9310e0e5.chunk.css",
-    "main.js": "/ud_RobotApp/static/js/main.7421e590.chunk.js",
-    "main.js.map": "/ud_RobotApp/static/js/main.7421e590.chunk.js.map",
+    "main.js": "/ud_RobotApp/static/js/main.1185e54c.chunk.js",
+    "main.js.map": "/ud_RobotApp/static/js/main.1185e54c.chunk.js.map",
     "runtime-main.js": "/ud_RobotApp/static/js/runtime-main.7895ec56.js",
     "runtime-main.js.map": "/ud_RobotApp/static/js/runtime-main.7895ec56.js.map",
-    "static/js/2.8d8ea097.chunk.js": "/ud_RobotApp/static/js/2.8d8ea097.chunk.js",
-    "static/js/2.8d8ea097.chunk.js.map": "/ud_RobotApp/static/js/2.8d8ea097.chunk.js.map",
+    "static/js/2.db8faefc.chunk.js": "/ud_RobotApp/static/js/2.db8faefc.chunk.js",
+    "static/js/2.db8faefc.chunk.js.map": "/ud_RobotApp/static/js/2.db8faefc.chunk.js.map",
     "index.html": "/ud_RobotApp/index.html",
-    "precache-manifest.91cabd2514215330032f31a8f134d1fb.js": "/ud_RobotApp/precache-manifest.91cabd2514215330032f31a8f134d1fb.js",
+    "precache-manifest.b8192fbaf2db7c6b12b15e9ebcdd0dea.js": "/ud_RobotApp/precache-manifest.b8192fbaf2db7c6b12b15e9ebcdd0dea.js",
     "service-worker.js": "/ud_RobotApp/service-worker.js",
     "static/css/main.9310e0e5.chunk.css.map": "/ud_RobotApp/static/css/main.9310e0e5.chunk.css.map",
-    "static/js/2.8d8ea097.chunk.js.LICENSE.txt": "/ud_RobotApp/static/js/2.8d8ea097.chunk.js.LICENSE.txt",
+    "static/js/2.db8faefc.chunk.js.LICENSE.txt": "/ud_RobotApp/static/js/2.db8faefc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ud_RobotApp/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.7895ec56.js",
-    "static/js/2.8d8ea097.chunk.js",
+    "static/js/2.db8faefc.chunk.js",
     "static/css/main.9310e0e5.chunk.css",
-    "static/js/main.7421e590.chunk.js"
+    "static/js/main.1185e54c.chunk.js"
   ]
 }
